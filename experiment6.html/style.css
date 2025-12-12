@@ -1,0 +1,67 @@
+/*overall page styling*/
+body{
+    font-family: Arial, sans-serif;
+    background-color: white;
+    text-align: center;
+    margin: 20px;
+
+}
+
+/* Heading styling */
+h1{
+    color: black;
+    margin-bottom:  30px;
+
+}
+
+/* Product box styling */
+.product-box{
+    Background-color: GREEN;
+    width: 300px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+/* Product image styling */
+.product-box img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+
+
+}
+
+/* Product title */
+.product-box h2 {
+    color: lightblue;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+/* Product Description */
+.description{
+    color: darkcyan 
+    font-size14px;
+}
+/* Product Price */
+.price{
+    color: rgb(97, 24, 24);
+    font-weight: bold;
+    margin-bottom:  15px;
+}
+
+/*Button Styling */
+button{
+    Background-color:blue;
+    color:  Orange;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+/* Button Hover Effect */
+button:hover{
+    background-color: red;
+}
