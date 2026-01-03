@@ -10,7 +10,7 @@ body{
 /* Heading styling */
 h1{
     color: black;
-    margin-buttom: 30px;
+    margin-bottom:  30px;
 
 }
 
@@ -43,16 +43,14 @@ h1{
 
 /* Product Description */
 .description{
-    color: darkcyan
-    font-size: 14px;
-
-    
+    color: darkcyan 
+    font-size14px;
 }
 /* Product Price */
 .price{
     color: rgb(97, 24, 24);
     font-weight: bold;
-    margin-button: 15px;
+    margin-bottom:  15px;
 }
 
 /*Button Styling */
