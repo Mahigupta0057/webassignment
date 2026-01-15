@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .container{
     display:grid;
@@ -12,4 +13,20 @@
     padding:10px;
     text-align:center;
 
+=======
+
+.container{
+    display:grid;
+    grid-template-columns: repeat(3,100px);
+    grid-template-rows:  repeat(2,100px);
+    grid-gap:10px;
+
+}
+.item{
+    background-color:rgb(94, 94, 203);
+    color:white;
+    padding:10px;
+    text-align:center;
+
+>>>>>>> bb5293de7c925294ad20e4e3c3b5f7f8a00784de
 }
